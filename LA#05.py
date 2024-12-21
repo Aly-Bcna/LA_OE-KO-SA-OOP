@@ -1,7 +1,7 @@
 LA#05
 
 class Mlhero():
-   def init(self, name, role):
+   def __init__(self, name, role):
    self.name = name
    self.role = role
 
