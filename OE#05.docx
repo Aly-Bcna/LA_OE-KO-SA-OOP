@@ -1,0 +1,140 @@
+OE#05
+
+Game Title:Mobile Legends 
+
+Game Object 1: Alucard
+Attributes
+
+Skill resource: Mana
+Role: Fighter/Assassin
+HP: 2758
+Physical Attack: 123
+Physical Defense: 21
+Magic Defense: 15
+Movement Speed: 260
+Attack Speed: 1.0
+Lifesteal: 20%
+Critical Chance: 15%
+Skill Cooldown Reduction: 10%
+
+Methods:
+
+-Fission Wave: Deals AoE damage and enhances lifesteal.
+-Groundsplitter: Leaps forward and damages enemies in the area.
+-Passive: Pursuit: Chases enemies with enhanced attacks.
+
+Game Object 2: Miya Attributes
+
+Map
+Fragments
+Role: Marksman
+HP: 2401
+Physical Attack: 120
+Attack Range: Long
+Attack Speed: 1.2
+Physical Defense: 15
+Magic Defense: 10
+Critical Chance: 25%
+Movement Speed: 240
+
+Methods:
+
+-Arrow Rain: Slows and damages enemies in an area.
+-Turbo: Boosts attack speed.
+-Moonlight Blessing
+
+Game Object 3: Tigreal Attributes
+
+Role: Tank
+HP: 3200
+Physical Defense: 30
+Magic Defense: 20
+Crowd Control: High
+HP Regen: 45/sec
+Movement Speed: 240
+Mana: 600
+Skill Cooldown Reduction: 5%
+
+Methods:
+
+-Implosion: Stuns and pulls enemies.
+-Sacred Hammer: Charges forward and knocks back enemies.
+-Passive: Fearless: Increases resistance to physical and magic damage.
+
+Game Object 4: Kagura Attributes
+
+Role: Mage
+HP: 2500
+Mana: 1200
+Magic Power: 180
+Magic Defense: 18
+Physical Defense: 12
+Movement Speed: 250
+Cooldown Reduction: 15%
+
+Methods:
+
+-Seimei Umbrella Open
+-Rasho Umbrella flee
+-Yin Yang Overturn: Pulls enemies with the umbrella for massive AoE damage.
+
+Game Object 5: Hayabusa Attributes
+
+Role: Assassin
+HP: 2600
+Physical Attack: 145
+Movement Speed: 265
+Attack Speed: 1.1
+Physical Defense: 16
+Magic Defense: 12
+Energy: 120
+Critical Chance: 20%
+
+Methods:
+
+-Shadow Kill: High burst damage to single/multiple targets.
+-Quad Shadow: Creates shadows to teleport and confuse enemies.
+-Passive: Ninjutsu: Increases damage against isolated targets.
+
+Game Object 6: Angela Attributes
+
+Role: Support
+HP: 2200
+Mana: 1400
+Healing Power: High
+Physical Defense: 10
+Magic Defense: 15
+Movement Speed: 260
+Cooldown Reduction: 10%
+Shield Strength: 1500
+
+Methods:
+
+-Love Waves: Heals allies and damages enemies.
+-Heartguard: Attaches to allies, providing a shield and buffs.
+-Puppet Strings: Roots and slows enemies.
+
+Game Object 7: Masha attributes 
+
+Name
+Map
+Battle points
+Diamonds
+Fragments
+Skin 
+Role: Fighter 
+Lane: Jungle
+Specialty: Burst
+Gender: Female
+Weapon: Nail
+Damage: Physical Damage
+Ability
+Speed
+Skill resource: Mana
+
+Methods:
+
+-Basic attack type: physical
+-First skill
+-Second skill
+-Battle spell: Sprint
