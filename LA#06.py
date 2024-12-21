@@ -1,7 +1,7 @@
 LA#06
 
 class Laptop:
-  def init(self, brand, model):
+  def __init__(self, brand, model):
   pass
   def laptop_info(self):
   pass
@@ -11,7 +11,7 @@ lenovo = laptop("Lenovo", "ideapad")
 print(lenovo.laptop_info())
 
 class course:
-  def init(self, name):
+  def __init__(self, name):
   self.name = name
 
 it = course("Information Technology")
