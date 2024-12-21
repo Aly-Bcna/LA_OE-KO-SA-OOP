@@ -1,14 +1,14 @@
 LA#04
 
 class Mlhero():
-   def init(self, name, role):
+   def __init__(self, name, role):
    self.name = name
    self.role = role
 
    def describe(self):
    return f"{self.name} is a/an {self.role} hero."
 
-   def str(self):
+   def __str__(self):
    return f"{self.name} is a/an {self.role} hero."
 
 support = Mlhero("Angela", "Support")
